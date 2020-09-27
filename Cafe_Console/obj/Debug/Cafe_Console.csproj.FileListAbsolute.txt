@@ -1,0 +1,12 @@
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\bin\Debug\Cafe_Console.exe.config
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\bin\Debug\Cafe_Console.exe
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\bin\Debug\Cafe_Console.pdb
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\bin\Debug\Cafe_Repository.dll
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\bin\Debug\Cafe_Repository.pdb
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\obj\Debug\Cafe_Console.csprojAssemblyReference.cache
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\obj\Debug\Cafe_Console.csproj.CoreCompileInputs.cache
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\obj\Debug\Cafe_Console.csproj.CopyComplete
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\obj\Debug\Cafe_Console.exe
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\obj\Debug\Cafe_Console.pdb
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\bin\Debug\Utility_Repository.dll
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_Console\bin\Debug\Utility_Repository.pdb

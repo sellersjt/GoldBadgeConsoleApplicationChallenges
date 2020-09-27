@@ -1,0 +1,6 @@
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Claims_Repository\bin\Debug\Claims_Repository.dll
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Claims_Repository\bin\Debug\Claims_Repository.pdb
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Claims_Repository\obj\Debug\Claims_Repository.csprojAssemblyReference.cache
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Claims_Repository\obj\Debug\Claims_Repository.csproj.CoreCompileInputs.cache
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Claims_Repository\obj\Debug\Claims_Repository.dll
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Claims_Repository\obj\Debug\Claims_Repository.pdb
