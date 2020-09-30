@@ -17,3 +17,5 @@ C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChall
 C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_UnitTest\obj\Debug\Cafe_UnitTest.csproj.CopyComplete
 C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_UnitTest\obj\Debug\Cafe_UnitTest.dll
 C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_UnitTest\obj\Debug\Cafe_UnitTest.pdb
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_UnitTest\bin\Debug\Utility_Repository.dll
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\Cafe_UnitTest\bin\Debug\Utility_Repository.pdb

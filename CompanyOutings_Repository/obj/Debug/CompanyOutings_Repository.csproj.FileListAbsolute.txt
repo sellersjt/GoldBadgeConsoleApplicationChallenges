@@ -1,0 +1,6 @@
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\CompanyOutings_Repository\bin\Debug\CompanyOutings_Repository.dll
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\CompanyOutings_Repository\bin\Debug\CompanyOutings_Repository.pdb
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.csprojAssemblyReference.cache
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.csproj.CoreCompileInputs.cache
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.dll
+C:\Users\jt\Desktop\ElevenFiftyProjects\DotNetProjects\GBConsoleApplicationChallenges\CompanyOutings_Repository\obj\Debug\CompanyOutings_Repository.pdb
